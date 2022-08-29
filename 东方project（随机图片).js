@@ -12,7 +12,7 @@ export const rule = {
   Baozhen:{
     reg: "^东方|东方project$", //匹配消息正则，命令正则
     priority: 1650, //优先级，越小优先度越高
-    describe: "二次元猫娘", //【命令】功能说明
+    describe: "二次元图片", //【命令】功能说明
   },
 };
 
